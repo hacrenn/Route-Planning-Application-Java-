@@ -1,51 +1,53 @@
-# LP-AEDIIProject
+# Route Planning Application (Java)
 
-**Descrição**
-LP-AEDIIProject é um projeto de software desenvolvido em Java que demonstra a aplicação de estruturas de dados e algoritmos para o processamento e organização de informação. O sistema foi concebido utilizando princípios de programação orientada a objetos, permitindo uma estrutura modular e organizada para manipular e processar conjuntos de dados.
+**Description**
+LP-AEDIIProject is a software project developed in Java that demonstrates the application of data structures and algorithms for information processing and organization. The system was designed using object-oriented programming principles, allowing for a modular and organized structure to manipulate and process datasets.
 
-O projeto apresenta uma arquitetura clara, separando responsabilidades entre diferentes componentes responsáveis pela gestão de dados, processamento lógico e execução da aplicação. Esta organização facilita a manutenção do código, a extensão do sistema e a reutilização de componentes.
-
----
-
-## Objetivo do Projeto
-
-O objetivo principal deste projeto é desenvolver uma aplicação capaz de processar e manipular informação utilizando técnicas eficientes de programação e algoritmos.
-O projeto procura demonstrar:
-
-*Aplicação prática de estruturas de dados
-*Organização modular de um sistema de software
-*Implementação de algoritmos para processamento de dados
-*Utilização de princípios de programação orientada a objetos
-*Estruturação de uma aplicação de forma escalável e organizada
+The project presents a clear architecture, separating responsibilities among different components responsible for data management, logical processing, and application execution. This organization facilitates code maintenance, system extension, and component reuse.
 
 ---
 
-## Funcionalidades
+## Project Objective
 
-O sistema inclui um conjunto de funcionalidades destinadas à gestão e processamento de informação.
-Entre as principais funcionalidades encontram-se:
+The main objective of this project is to develop an application capable of processing and manipulating information using efficient programming techniques and algorithms.
 
-*Organização e armazenamento estruturado de dados
-*Processamento e manipulação de conjuntos de informação
-*Execução de operações algorítmicas sobre dados
-*Transformação e análise de dados de entrada
-*Produção de resultados organizados a partir da informação processada
+The project aims to demonstrate:
 
-A arquitetura do projeto permite adicionar novas funcionalidades sem necessidade de alterar significativamente a estrutura existente.
+*Practical application of data structures
+*Modular organization of a software system
+*Implementation of algorithms for data processing
+*Use of object-oriented programming principles
+*Structuring an application in a scalable and organized way
 
 ---
 
-## Tecnologias Utilizadas
+## Features
 
-O projeto foi desenvolvido com recurso às seguintes tecnologias:
+The system includes a set of functionalities designed for information management and processing.
+
+Among the main functionalities are:
+
+*Structured organization and storage of data
+*Processing and manipulation of information sets
+*Execution of algorithmic operations on data
+*Transformation and analysis of input data
+*Production of organized results from the processed information
+
+The project architecture allows for the addition of new functionalities without significantly altering the existing structure.
+
+---
+
+## Technologies Used
+
+The project was developed using the following technologies:
 
 *Java
-*Programação Orientada a Objetos
-*Estruturas de Dados
-*Algoritmos
-*Git (controlo de versões)
+*Object-Oriented Programming
+*Data Structures
+*Algorithms
+*Git (version control)
 
-Ferramentas normalmente utilizadas no desenvolvimento:
+Tools commonly used in development:
 
 *IntelliJ IDEA
 *Eclipse
@@ -54,58 +56,62 @@ Ferramentas normalmente utilizadas no desenvolvimento:
 
 ---
 
-## Arquitetura do Sistema
+## System Architecture
 
-O sistema segue uma arquitetura modular que separa diferentes responsabilidades da aplicação.
+The system follows a modular architecture that separates different application responsibilities.
 
-Os principais componentes incluem:
+The main components include:
 
-### Lógica da aplicação
-Responsável por coordenar o fluxo de execução e controlar as operações principais do sistema.
+### Application Logic
+Responsible for coordinating the execution flow and controlling the system's main operations.
 
-### Modelos e estruturas de dados
-Representam as entidades e estruturas utilizadas para armazenar e organizar informação.
+### Data Models and Structures
+Represent the entities and structures used to store and organize information.
 
-### Módulos de processamento
-Responsáveis pela implementação dos algoritmos que manipulam e analisam os dados.
+### Processing Modules
+Responsible for implementing the algorithms that manipulate and analyze the data.
 
-### Componentes utilitários
-Fornecem funcionalidades de suporte utilizadas por diferentes partes do sistema.
+### Utility Components
+Provide supporting functionalities used by different parts of the system.
 
-Esta separação permite melhorar a legibilidade do código e facilita futuras alterações ou expansões do sistema.
-
----
-
-## Estrutura do Repositório
-
-O projeto encontra-se organizado em diferentes diretórios com responsabilidades específicas.
-
-Estrutura geral:
-
-*src/
-Contém o código fonte principal da aplicação.
-*classes principais
-Responsáveis pela execução da aplicação e controlo do fluxo principal.
-*estruturas e entidades
-Classes que representam os dados e estruturas utilizadas no sistema.
-*módulos de processamento
-Componentes responsáveis pela manipulação e transformação da informação.
-*README.md
-Documento de descrição e instruções do projeto.
-
-Esta organização facilita a compreensão da estrutura geral do sistema.
+This separation improves code readability and facilitates future system changes or expansions.
 
 ---
 
-## Requisitos do Sistema
+## Repository Structure
 
-Para executar o projeto é necessário:
+The project is organized into different directories with specific responsibilities.
 
-*Java JDK 8 ou superior
+General Structure:
+
+*src/ 
+Contains the main source code of the application.
+
+*Main Classes 
+Responsible for the execution of the application and control of the main flow.
+
+*Structures and Entities 
+Classes that represent the data and structures used in the system.
+
+*Processing Modules 
+Components responsible for the manipulation and transformation of information.
+
+*README.md 
+Document describing and providing instructions for the project.
+
+This organization facilitates understanding the overall structure of the system.
+
+---
+
+## System Requirements
+
+To run the project you need:
+
+*Java JDK 8 or higher
 *Git
-*Um ambiente de desenvolvimento Java ou terminal compatível
+*A Java development environment or compatible terminal
 
-Sistemas operativos suportados:
+Supported operating systems:
 
 *Windows
 *Linux
