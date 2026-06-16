@@ -1,7 +1,7 @@
 # Route Planning Application (Java)
 
 **Description**
-LP-AEDIIProject is a software project developed in Java that demonstrates the application of data structures and algorithms for information processing and organization. The system was designed using object-oriented programming principles, allowing for a modular and organized structure to manipulate and process datasets.
+This is a software project developed in Java that demonstrates the application of data structures and algorithms for information processing and organization. The system was designed using object-oriented programming principles, allowing for a modular and organized structure to manipulate and process datasets.
 
 The project presents a clear architecture, separating responsibilities among different components responsible for data management, logical processing, and application execution. This organization facilitates code maintenance, system extension, and component reuse.
 
